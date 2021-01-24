@@ -13,6 +13,7 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
     - For our redstone-technicians!
 - Subterranean Wilderness
     - Underground biomes a la 1.17 baby! For real: You're going to **love** it!
+
 #### Updated:
 - Snow! Real Magic!
 - Biomes O' Plenty
@@ -32,9 +33,14 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 - Spice of Life: Potato Edition
 - Theurgy
 - YUNG's Better Mineshafts
+
 #### Removed:
 - Enchantment Descriptions
 - Global Data- and Resourcepacks
+
+#### Configuration Changes:
+- Banished phantoms to The End. Sleep tight!
+- Disabled automatic ladder climbing (ClientTweaks).
 
 ### 1.1.0
 
