@@ -4,6 +4,37 @@
 Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/Verve-2/issues).
 
 ---
+### 1.2.0
+
+#### Added:
+- Well-Behaved Mobs
+    - For real: Why is this not Vanilla?
+- Floor Mats
+    - For our redstone-technicians!
+- Subterranean Wilderness
+    - Underground biomes a la 1.17 baby! For real: You're going to **love** it!
+#### Updated:
+- Snow! Real Magic!
+- Biomes O' Plenty
+- Botania
+- Cauldron Recipes
+- Dynamic Surroundings
+- Emendatus Enigmatica
+- Engineer's Decor
+- Engineer's Tools
+- Extra Boats
+- Gauges and Switches
+- Integrated Dynamics
+- JAOPCA
+- Pam's HarvestCraft 2 - Food Core
+- Quark
+- Serene Seasons
+- Spice of Life: Potato Edition
+- Theurgy
+- YUNG's Better Mineshafts
+#### Removed:
+- Enchantment Descriptions
+- Global Data- and Resourcepacks
 
 ### 1.1.0
 
