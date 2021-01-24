@@ -1,7 +1,11 @@
 <img src="https://i.imgur.com/OEfUXis.png">
 
-# Verve 2 - Authentic Minecraft
+# 🍃 Verve 2 - Authentic Minecraft
 Verve 2 is the direct successor to Verve, the authentic, semi-realistic (modded) Minecraft experience.
+
+---
+
+## [📄 Changelog](CHANGELOG.md)
 
 ---
 
