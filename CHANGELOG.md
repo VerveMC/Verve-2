@@ -40,6 +40,7 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 
 #### Configuration Changes:
 - Banished phantoms to The End. Sleep tight!
+- End Phantoms may now spawn in smaller groups.
 - Disabled automatic ladder climbing (ClientTweaks).
 
 ### 1.1.0
