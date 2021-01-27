@@ -4,6 +4,40 @@
 Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/Verve-2/issues).
 
 ---
+
+### 1.2.1
+
+#### Added:
+- **Resource Packs!** (Those won't be enabled by default.)
+    - Dramatic Skys
+        - Beautiful skies. Yeah. That's it.
+    - GUI Retextures
+        - Makes the GUI more vibrant. Just makes the pack feel more... modern?
+    - The Official Enigmatica Resource Pack
+        - Fixes some out-dated texture of some mods, that were never updated to the textures introcued back in 1.15.2.
+
+#### Updated:
+- Absent by Design
+- Biomes O' Plenty
+- Cauldron Recipes
+- Corail Backpack
+- Forgery
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Furniture
+- Macaw's Roofs
+- Macaw's Trapdoors
+- Mekanism
+- Mekanism Tools
+- Oh The Biomes You'll Go
+- PneumaticCraft: Repressurized
+- Quark
+- Subterranean Wilderness
+- TerraForged
+- Well-Behaved Mobs
+- Xaero's Minimap
+- Xaero's World Map
+
 ### 1.2.0
 
 #### Added:
