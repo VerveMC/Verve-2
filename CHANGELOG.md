@@ -5,6 +5,21 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 
 ---
 
+### 1.2.2
+
+#### Added:
+- Alchemistry
+    - This *shouldn't* cause problems with current worlds, but please create a backup before updating and launching your saves (as you should do every update smh)
+
+#### Updated:
+- Applied Energistics 2
+- Dynamic Surroundings
+- Forgery
+- Integrated Dynamics
+- Quark
+- Supplementaries
+- TerraForged
+
 ### 1.2.1
 
 #### Added:
