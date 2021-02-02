@@ -15,6 +15,7 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
     - FINALLY! Pog
 - Create Crafts & Additions
 - Quark O' Plenty
+- Variant16x: Biomes O' Plenty
 
 #### Updated:
 - Alchemistry
@@ -32,11 +33,15 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 - Nether Portal Spread
 - Polymorph
 - Powah!
+- Quark
 - RandomPatches
 - Smaller Nether Portals
 - Tetra
 - The Outer End
+- Variant16x
 - Villager Names
+- Xaero's Minimap
+- Xaero's World Map
 
 ### 1.2.2
 
