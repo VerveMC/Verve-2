@@ -5,45 +5,6 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 
 ---
 
-### 1.2.3
-
-- Patched to Minecraft version 1.16.5
-- Patched to Forge 36.0.13
-
-- **Removed Quark O' Plenty due to server launch crash.**
-
-#### Added:
-- Chisels & Bits
-    - FINALLY! Pog
-- Create Crafts & Additions
-- Variant16x: Biomes O' Plenty
-
-#### Updated:
-- Alchemistry
-- AttributeFix
-- Bed Benefits
-- Better Burning
-- Controlling
-- Corpse
-- Farmer's Delight
-- Floor Mats
-- Immersive Engineering
-- Industrial Foregoing
-- JAOPCA
-- Just Enough Items
-- Nether Portal Spread
-- Polymorph
-- Powah!
-- Quark
-- RandomPatches
-- Smaller Nether Portals
-- Tetra
-- The Outer End
-- Variant16x
-- Villager Names
-- Xaero's Minimap
-- Xaero's World Map
-
 ### 1.2.2
 
 #### Added:
