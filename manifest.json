@@ -12,8 +12,26 @@
   "manifestVersion": 1,
   "name": "Verve 2",
   "version": "1.2.3",
-  "author": "",
+  "author": "schlvfmvngel",
   "files": [
+    {
+      "_comment": "Applied Energistics 2",
+      "projectID": 223794,
+      "fileID": 3185882,
+      "required": true
+    },
+    {
+      "_comment": "Cyclops Core",
+      "projectID": 232758,
+      "fileID": 3184812,
+      "required": true
+    },
+    {
+      "_comment": "Integrated Dynamics",
+      "projectID": 236307,
+      "fileID": 3190265,
+      "required": true
+    },
     {
       "projectID": 291874,
       "fileID": 3179424,
