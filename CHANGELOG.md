@@ -5,6 +5,39 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 
 ---
 
+### 1.2.3
+
+- Patched to Minecraft version 1.16.5
+- Patched to Forge 36.0.13
+
+#### Added:
+- Chisels & Bits
+    - FINALLY! Pog
+- Create Crafts & Additions
+- Quark O' Plenty
+
+#### Updated:
+- Alchemistry
+- AttributeFix
+- Bed Benefits
+- Better Burning
+- Controlling
+- Corpse
+- Farmer's Delight
+- Floor Mats
+- Immersive Engineering
+- Industrial Foregoing
+- JAOPCA
+- Just Enough Items
+- Nether Portal Spread
+- Polymorph
+- Powah!
+- RandomPatches
+- Smaller Nether Portals
+- Tetra
+- The Outer End
+- Villager Names
+
 ### 1.2.2
 
 #### Added:
