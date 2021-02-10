@@ -19,6 +19,7 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
     - Give us those details doe!
 - Extreme Reactors
     - MORE POWEEEEER!!!
+- Mod Name Tooltip
 - RFTools Dimensions
     - Time to literally create your own world.
 - Water Strainer
