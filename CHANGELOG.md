@@ -45,6 +45,7 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 - RandomPatches
 - RFTools Control
 - Supplementaries
+- TerraForged
 - Tetra
 - The Outer End
 - Theurgy
