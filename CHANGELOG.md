@@ -5,6 +5,53 @@ Please report issues to our [GitHub issue tracker](https://github.com/VerveTeam/
 
 ---
 
+### 1.3.0
+
+#### Configuration Changes:
+- Included the **World of Verve** preset for _TerraForged_ and set to default. Fascinating worlds incoming! :o
+- Reduced Towers of the Wild spawn rate.
+- Reduced Mapper Base Bitumen spawn rate.
+- Set world map binding to "m"
+- Set waypoint manager binding to "."
+
+#### Added:
+- Chisels and Bits
+    - Give us those details doe!
+- Extreme Reactors
+    - MORE POWEEEEER!!!
+- RFTools Dimensions
+    - Time to literally create your own world.
+- Water Strainer
+    - Quality of Life
+
+#### Updated:
+- Snow! Real Magic!
+- Alchemistry
+- Aquaculture 2
+- Dynamic Surroundings
+- Engineer's Tools
+- Farmer's Delight
+- Genetic Animals
+- Guard Villagers
+- Integrated Dynamics
+- JAOPCA
+- Just Enough Items
+- Pam's HarvestCraft 2
+    - Food Core
+    - Food Extended
+- Polymorph
+- Powah!
+- Quark
+- RandomPatches
+- RFTools Control
+- Supplementaries
+- Tetra
+- The Outer End
+- Theurgy
+- Variant16x
+- Xaero's Minimap
+- Xaero's World Map
+
 ### 1.2.2
 
 #### Added:
